@@ -17,18 +17,18 @@ TurboTax Online offers the convenience of preparing and e-filing your tax return
 
 ## How do I Download my TurboTax Code?
 
-Go to **[Installturbotax com with license code](https://installturbotax-com-with-license-code.github.io/)**.
-Set up a TurboTax account.
-Enter your license code in the pop up window. ...
-Select your operating system, and select Get Download.
-Download your software and install it. 
+* Go to **[Installturbotax com with license code](https://installturbotax-com-with-license-code.github.io/)**.
+* Set up a TurboTax account.
+* Enter your license code in the pop up window. ...
+* Select your operating system, and select Get Download.
+* Download your software and install it. 
 
 
 ## Activating TurboTax CD/Download software
 
 To activate and install your TurboTax CD/Download software, you'll need the **[Installturbotax com with license code]()**, a 16-character (or 14-character for 2019 products) combination of letters and numbers (XXXX-XXXX-XXXX-XXXX) that can be found:
 
-On the CD box insert, envelope, or packing slip; OR
-In the Download confirmation email and/or order history
-Enter it in the License code box on the activation screen and select Continue to complete installation.
-You’re free to use the same license code to install the software on up to five computers; you'll need to purchase another license if you need more.
+* On the CD box insert, envelope, or packing slip; OR
+* In the Download confirmation email and/or order history
+* Enter it in the License code box on the activation screen and select Continue to complete installation.
+* You’re free to use the same license code to install the software on up to five computers; you'll need to purchase another license if you need more.
